@@ -12,3 +12,6 @@ Importante!:
 
 Como foi feito:
 Este projeto conta com programação JavaScript para um código HTML e CSS previamente elaborados.
+
+Acessar com VERCEL:
+https://chalenger-amigo-secreto.vercel.app/
